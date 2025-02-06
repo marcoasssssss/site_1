@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Manrope", serif;
+    box-sizing: border-box;
+}
+
+
+header{
+    width: 1362px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 70px;
+    height: 21px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+
+.menu{
+    width: 677px;
+    height: 12px;
+    color: #757575;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 271px;
+    margin-right: 152px;
+    margin-top: 31px;
+    margin-bottom: 37px;
+}
+
+.addres{
+    width: 191px;
+    height: 24px;
+    margin-top: 21px;
+    margin-right: 38px;
+    margin-left: 152px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pin{
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+}
+
+.addres_2{
+    width: 159;
+    height: 24px;
+    height: 12px;
+    color: #757575;
+    letter-spacing: 2%;
+    line-height: 100%;
+}
+
+.fon{
+    width: 1360px;
+    height: 780px;
+    margin-top: 29px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+.table{
+    width: 582px;
+    height: 706px;
+    background-color: white;
+    margin-right: 26px;
+    margin-top: 37px;
+    margin-bottom: 37px;
+}
+
