@@ -1,2 +1,2 @@
 # site_1
-Сделал первый сайт
+My firs project in GitHub
